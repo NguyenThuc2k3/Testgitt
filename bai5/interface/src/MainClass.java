@@ -3,7 +3,7 @@ public class MainClass {
         // comment 123
 //        Person student = new Student();
 //        Person employee = new Employee();
-//
+// comment 456
 //        student.hoc();
 //        employee.hoc();
 //        Student student = new Student();
