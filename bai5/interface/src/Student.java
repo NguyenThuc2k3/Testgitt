@@ -1,6 +1,7 @@
 public class Student extends Person implements Readable, Playable{
     private String className;
     private double grade;
+    // comment
 
     public String getClassName() {
         return className;
