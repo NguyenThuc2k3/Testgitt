@@ -1,5 +1,6 @@
 public class MainClass {
     public static void main(String[] args) {
+        // comment
 //        Person student = new Student();
 //        Person employee = new Employee();
 //
