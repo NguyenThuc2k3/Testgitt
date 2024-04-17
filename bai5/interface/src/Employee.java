@@ -16,6 +16,7 @@ public class Employee extends Person implements Readable{
 
     @Override
     public void readBook() {
+        // comment 2
         System.out.println("Nhan vien doc cac sach ve nghiep vu. ");
     }
 }
